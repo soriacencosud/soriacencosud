@@ -22,12 +22,12 @@
  	user = 'Zombie48'
 		current_work = 'Writing code'
 		hobbies = [
-				'Boxing',
-				'Inline Hockey',
-				'Watching Anime',
-				'Reading Novels',
-        'Personal development',
-				'Being up all Night chasing that ONE BUG...'
+			'Boxing',
+			'Inline Hockey',
+			'Watching Anime',
+			'Reading Novels',
+		        'Personal development',
+			'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
