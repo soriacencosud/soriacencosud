@@ -24,6 +24,9 @@
 		hobbies = [
 			'Boxing',
 			'Inline Hockey',
+			'Cooking',
+			'Cocketails',
+			'Coffe',
 			'Watching Anime',
 			'Reading Novels',
 		        'Personal development',
