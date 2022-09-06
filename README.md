@@ -1,11 +1,21 @@
 ## Hey, [Seba here!](https://github.com/soriagorgoroso)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-
-
-<br/>
-<br/>
-
-
 <h1>Welcome to my humble abode in the Digital World..</h1> 
+
+<p  align="right" >
+ <a  href="https://bit.ly/3LC8Wqw">    :bulb:[Resume / CV]   </a>
+</p>
+</a><p  align="right" >
+ <a  href="https://github.com/soriagorgoroso
+">    :octopus:[Personal GitHub]:smirk_cat:   </a>
+</p><p  align="right" >
+ <a  href="https://bit.ly/37kAkL9
+">    💪[Portfolio]   </a>
+</p>
+<p  align="right" >
+ <a  href="https://torre.co/soriagorgoroso
+">    :dog:[Torre Profile]   </a>
+</p>
+
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
